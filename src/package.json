@@ -1,0 +1,7 @@
+{
+  "name": "electter",
+  "version": "1.0.0",
+  "main": "app/javascripts/main/main.js",
+  "repository": {},
+  "license": "MIT"
+}
